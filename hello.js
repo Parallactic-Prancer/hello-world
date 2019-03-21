@@ -3,3 +3,4 @@ if(!name) {
     name = 'Stranger';
 }
 console.log(`Hello ${name}.`);
+console.log(`See you later, ${name}.`);
