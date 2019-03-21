@@ -4,3 +4,4 @@ if(!name) {
 }
 console.log(`Hello ${name}.`);
 console.log(`See you later, ${name}.`);
+console.log(`okay... Bye!!`);
