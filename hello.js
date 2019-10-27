@@ -6,3 +6,7 @@ console.log(`1.) [testing] 1st commit change`);
 console.log(`2 [master] 1st commit`);
 
 
+
+console.log(`added something new here in the tetsing branch, HAIL SATAN`);
+
+console.log(`4 [testing] 2nd commit in the testing branch over here.`);
