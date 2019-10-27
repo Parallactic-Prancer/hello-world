@@ -13,3 +13,9 @@ console.log(`3 [master] 2nd commuit`);
 console.log(`4 [testing] 2nd commit in the testing branch over here.`);
 
 
+
+
+
+
+console.log(`Hello there, this is master talking.`);
+console.log(`Eat you veggies and be nice with everyone around you!`);
